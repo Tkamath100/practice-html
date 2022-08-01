@@ -1,0 +1,95 @@
+/* 1111 */
+/* div ul{
+    font-size: 20px;
+} */
+#title{
+    background: rgb(247, 80, 80);
+    overflow: hidden; 
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#fff;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h2{
+    padding:5%;
+    width:75%;
+    margin:auto;
+}
+h3{
+    padding: 1rem;
+    font-family: 'Quicksand', sans-serif; 
+    font-size:1.5rem;
+    font-weight: 600;
+}
+/* Navbar */
+nav{
+    background: rgb(247, 80, 80);
+}
+.navbar-brand{
+    font-size: 3rem;
+    font-weight: 600;
+    /* font-family: 'M PLUS Rounded 1c', sans-serif; */
+    font-family: 'Gamja Flower', cursive;
+}
+nav.navigation{
+    padding-top:3rem;
+}
+li.nav-item{
+    padding:1.3rem;          
+}
+a.nav-link{
+    font-size:1.2rem;
+    line-height: 1.5;  
+    font-weight:400;   
+}
+.nav-item{
+    padding:10px;
+}
+/* button */
+button.buttonStyle{
+    margin:5% 1.5%;
+}
+button i{
+    margin-right:0.5rem;
+}
+/* image */
+div .image{
+   width: 50%;
+   transform:rotate(18deg);
+}
+
+/* Section 2 */
+#features{
+   padding:5%;
+}
+.feature-box{
+    text-align: center;
+    padding:5%;
+}
+#logo{
+    color: rgb(247, 80, 80);
+}
+/* testimonial section */
+
+#testimonials{
+    text-align:center;
+    padding:5%;
+    background-color: rgb(247, 80, 80);
+    color:#fff;
+}
+#press{
+    background-color: rgb(247, 80, 80);
+    text-align:center;
+}
+.dog-image{
+    border-radius: 100%;
+    width:10%;
+    padding-right: 1%;
+}
+.test-img{
+    width:18%;
+    margin-bottom:2rem;
+    padding:1%;
+}
