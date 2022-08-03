@@ -22,6 +22,9 @@ h3{
     font-size:1.5rem;
     font-weight: 600;
 }
+.btn{
+    background-color:rgb(247, 80, 80);
+}
 /* Navbar */
 nav{
     background: rgb(247, 80, 80);
@@ -107,3 +110,25 @@ p{
     margin-bottom:1.5rem;
 }
 
+/* last section */
+
+#cta{
+    text-align: center;
+}
+#cta .btn{
+    margin-right:5px;
+    margin-bottom:1rem;
+}
+
+/* .btn:hover{
+    transition:0.5s;
+} */
+
+/* footer */
+#footer{
+    text-align:center;
+    padding: 1rem;
+    background-color: rgb(231, 227, 227);
+    color:rgb(100, 104, 104);
+    font-size: 0.8rem;
+}
