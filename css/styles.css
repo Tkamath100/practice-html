@@ -1,7 +1,6 @@
-/* 1111 */
-/* div ul{
-    font-size: 20px;
-} */
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 #title{
     background: rgb(247, 80, 80);
     overflow: hidden; 
@@ -91,5 +90,20 @@ div .image{
 .test-img{
     width:18%;
     margin-bottom:2rem;
-    padding:1%;
+    padding:2%;
 }
+
+/* cards-section */
+#pricing{
+    padding:50px 150px 50px;
+    text-align: center;
+}
+h4{
+    line-height: 1.5;
+    font-weight: bolder;
+    margin-bottom:2rem;
+}
+p{
+    margin-bottom:1.5rem;
+}
+
